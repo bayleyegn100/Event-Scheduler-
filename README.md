@@ -1,16 +1,17 @@
 # Event-Scheduler-
 ## Motivation
-Although there an event handler calander on the web I tried to customize with the coding knowledge and event I go.
+Although there an event handler calendar, I develop my own event scheduler app by using skill and knowledge of coding that I acquire.
 ## lesson learned 
-writting formating and manupulating a code for the event scheduelr lets me to reach a lot of subject areas. 
-## resoureces
-#### Moment js
+It helps me to advance my capacity on HTML, CSS and java script. 
+## Resources
+#### Moment js.
 #### W3school
-#### MDN Web Docs
-#### stackoverflow
-#### my toutor
-#### learning assistant 
+### MDN Web Docs
+### stack overflow
+### My tutor
+###Learning assistant 
 ## links 
 #### https://bayleyegn100.github.io/Event-Scheduler-/
-#### https://github.com/bayleyegn100/Event-Scheduler-/tree/master
+#### https://bayleyegn100.github.io/Event-Scheduler-/
  ## End
+
