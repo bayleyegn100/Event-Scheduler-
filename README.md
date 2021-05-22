@@ -1,25 +1,24 @@
 # Event-Scheduler-
 ## Motivation
-Most of event scheduler calanders are designed for 24 hours, this one is crafted only for "work hours" from 8 AM to 4 PM.
-
- ![work time calander](Images/Workdayscheduler.jpg)
-
+Although there an event handler calendar, I develop my own event scheduler app by using skill and knowledge of coding that I acquire.
 ## lesson learned 
-writting formating and manupulating a code for the event scheduelr lets me to reach a lot of subject areas. 
-
- ![work time calander](Images/schedulerpic.jpg)
-
-## resoureces
-#### Moment js
+It helps me to advance my capacity on HTML, CSS and java script. 
+## Resources
+#### Moment js.
 #### W3school
-#### MDN Web Docs
-#### stackoverflow
-#### my toutor
-#### learning assistant 
+### MDN Web Docs
+### stack overflow
+### My tutor
+###Learning assistant 
 ## links 
 #### https://bayleyegn100.github.io/Event-Scheduler-/
+<<<<<<< HEAD
 #### https://github.com/bayleyegn100/Event-Scheduler-/tree/master
 
  ![work time calander](Images/DayScheduler.jpg)
 
+=======
+#### https://bayleyegn100.github.io/Event-Scheduler-/
+>>>>>>> cef41fb492e214f0557a33a1ea094978673c8dcf
  ## End
+
