@@ -10,12 +10,12 @@ writting formating and manupulating a code for the event scheduelr lets me to re
  ![work time calander](Images/schedulerpic.jpg)
 
 ## Resources: I used the following resource materials. 
-Moment js.
-W3school
-MDN Web Docs
-stack overflow
-My tutor
-Learning assistant 
+Moment js, 
+W3school, 
+MDN Web Docs, 
+stack overflow, 
+My tutor, 
+Learning assistant,  
 Although there an event handler calendar, I develop my own event scheduler app by using skill and knowledge of coding that I acquire.
 ## lesson learned 
 It helps me to advance my capacity on HTML, CSS and java script. 
